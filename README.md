@@ -1,9 +1,9 @@
 # cHWinfo
 ### Easy-to-Read Server hardware information.
 
-[![Corintech love](https://img.shields.io/badge/Made%20With-%E2%99%A5-ff0fa0.svg?style=flat-square)](https://www.corintech.net)
-[![Corintech website](https://img.shields.io/badge/Website-Corintech-c9bbbb.svg?style=flat-square)](https://www.corintech.net)
+[![Corintech love](https://img.shields.io/badge/Made%20with-%E2%99%A5-ff0fa0.svg?style=flat-square)](https://www.corintech.net)
 [![GitHub license](https://img.shields.io/badge/License-GPL%20v3.0-blue.svg?style=flat-square)](https://github.com/saharben/cHWinfo/blob/master/LICENSE)
+[![Corintech website](https://img.shields.io/badge/Website-Corintech-c9bbbb.svg?style=flat-square)](https://www.corintech.net)
 
 ![screenshot](https://raw.githubusercontent.com/saharben/cHWinfo/master/chwinfo.png)
 
