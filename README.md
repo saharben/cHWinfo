@@ -11,7 +11,7 @@
 
 ### Download
 ```shell
-$ curl -sSL https://raw.githubusercontent.com/saharben/cHWinfo/master/chwinfo.sh
+$ curl -sSL https://raw.githubusercontent.com/saharben/cHWinfo/master/chwinfo.sh -O
 ```
 
 ### Make Executable
